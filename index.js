@@ -1,3 +1,7 @@
+/// 06/24/2025
+// idkdidkdkdjfoejfaksiefhefe
+console.log("helloworld")
+
 const readline = require('readline'); // readline is a tool in Node.js that allows you to receive keyboard input frpm the user (for asking questins and processing answers) 
 
 const rl = readline.createInterface({ // an input interface for receiving user input from the keyboard
